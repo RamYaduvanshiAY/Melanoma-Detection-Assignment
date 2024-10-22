@@ -65,34 +65,14 @@ You are required to build a multiclass classification model using a custom convo
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- pandas - 1.3.4
-- numpy - 1.20.3
-- matplotlib - 3.4.3
-- seaborn - 0.11.2
-- plotly - 5.8.0
-- sklearn - 1.1.2
-- statsmodel - 0.13.2
-- tensorflow - 2.11.0
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- sklearn
+- statsmodel
+- tensorflow
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-- This project was group case study for an online advance course.
-- https://www.geeksforgeeks.org/
-- https://seaborn.pydata.org/
-- https://plotly.com/
-- https://pandas.pydata.org/
-- https://learn.upgrad.com/
-- https://www.tensorflow.org/
-
-
-## Contact
-Created by [@darshil2848] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
